@@ -1,0 +1,37 @@
+.boxes{
+    background-color: #ffffff;
+    padding: 20px;
+    
+    
+}
+
+.block{
+    display: inline-block;
+}
+
+body{
+    background-color: #d6d6d6;
+}
+
+h1{
+    font-size: 44px;
+    color: #565a6e;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    font-size: 36px;
+    color: #565a6e;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-size: 18px;
+    color: #74798f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.padding-0{
+    padding-right:0;
+    padding-left:0;
+}
