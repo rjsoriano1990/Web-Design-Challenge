@@ -1,5 +1,5 @@
 .boxes{
-    background-color: #ffffff;
+    background-color: #43ccd6;
     padding: 20px;
     
     
@@ -15,19 +15,19 @@ body{
 
 h1{
     font-size: 44px;
-    color: #565a6e;
+    color: #dbdff0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2{
     font-size: 36px;
-    color: #565a6e;
+    color: #dbdff0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 p{
     font-size: 18px;
-    color: #74798f;
+    color: #dbdff0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
